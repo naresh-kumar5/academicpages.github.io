@@ -1,5 +1,5 @@
 ---
-title: "South Africa Labor Market Dynamics and Inequality"
+title: "Paper Title Number 2"
 collection: research
 permalink: ''
 excerpt: ''
