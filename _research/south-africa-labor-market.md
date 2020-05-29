@@ -1,7 +1,7 @@
 ---
 title: "South Africa Labor Market Dynamics and Inequality"
 collection: research
-permalink: /research/south-africa-labor-market
+permalink:
 excerpt: ''
 date: 2016-07-11
 venue: 'IMF Working Paper'
