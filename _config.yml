@@ -10,10 +10,12 @@ locale                   : "en-US"
 title                    : "Naresh Kumar"
 title_separator          : "-"
 name                     : &name "Naresh Kumar"
-description              : &description "I am a PhD student in the Department of Economics at the University of California, Santa CruZ. My research interests are in development economics (agriculure, gender, and labor). My current projects are based in Liberia and Malawi."
-url                      : https://nkumar05.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal description" 
+# "I am a PhD student in the Department of Economics at the University of California, Santa CruZ. My research interests are in development economics (agriculure, gender, and labor). My current projects are based in Liberia and Malawi."
+#url                      : https://nkumar05.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nkumar05/nkumar05.github.io"
+repository               : "nkumar05.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +84,11 @@ analytics:
 author:
   name             : "Naresh Kumar"
   avatar           : "profile3.jpg"
-  bio              : "PhD student in Economics at the University of California, Santa Cruz"
+  bio              : "PhD candidate in Economics at the University of California, Santa Cruz"
   location         : "Santa Cruz, California"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=mBbwSaAAAAAJ&hl=en"
   email            : "nkumar5@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -310,4 +312,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal  #Optional
+# theme: jekyll-theme-minimal  #Optional
