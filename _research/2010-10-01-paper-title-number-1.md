@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: research
-permalink:/research/2010-10-01-paper-title-1
+permalink: ''
 excerpt: 'This paper analyzes the determinants of high unemployment in South Africa'
 date: 2010-10-01
 venue: 'Journal 1'
