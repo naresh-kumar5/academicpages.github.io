@@ -1,7 +1,7 @@
 ---
 title: "South Africa Labor Market Dynamics and Inequality"
 collection: research
-permalink: ''
+permalink: 'https://www.imf.org/en/Publications/WP/Issues/2016/12/31/South-Africa-Labor-Market-Dynamics-and-Inequality-44078'
 excerpt: 'This paper analyzes the determinants of high unemployment in South Africa'
 date: 2016
 venue: 'IMF Working Paper'
